@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "5b180262ca34ac04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4b76cef1222fcbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e599566c66ba9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lernin/Research Topics/Tech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47384bf4f900a7cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "01319abb39dfac4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096f080aa985bf9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e39589eb5cdba8ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cceaa5a2a4a518af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5824070ae45e15a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0fbc27c7e264e7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4946c31d35269e0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lernin/Research Topics/Tech.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7eb8e440317deee7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lernin/Research Topics/Tech.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f42a9cb64ffeabf3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "635b2bdaa7e74643",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lernin/Research Topics/Tech.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e3e599566c66ba9e",
+  "lastOpenFiles": [
+    "Lernin/AWS/Zero to AWS EKS.md",
+    "Lernin/Research Topics/Tech.md",
+    "Lernin/Research Topics",
+    "Lernin/Self Study.md",
+    "Tech Tips"
+  ]
+}
