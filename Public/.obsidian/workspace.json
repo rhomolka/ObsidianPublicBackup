@@ -11,8 +11,12 @@
             "id": "63473b99bf03239b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lernin/Reading/Books and Reading.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lernin/Reading/Books and Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lernin/Reading/Books and Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lernin/Reading/Books and Reading.md"
+              }
             }
           }
         ]
@@ -140,10 +148,12 @@
   },
   "active": "63473b99bf03239b",
   "lastOpenFiles": [
+    "Lernin/Self Study.md",
+    "Lernin/Reading/Books and Reading.md",
+    "Lernin/Reading",
     "Lernin/AWS/Zero to AWS EKS.md",
     "Lernin/Research Topics/Tech.md",
     "Lernin/Research Topics",
-    "Lernin/Self Study.md",
     "Tech Tips"
   ]
 }
