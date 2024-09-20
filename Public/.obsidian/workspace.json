@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lernin/Reading/Books and Reading.md",
+                "file": "Lernin/Kubernetes/k8s Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lernin/Reading/Books and Reading.md",
+                "file": "Lernin/Kubernetes/k8s Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lernin/Reading/Books and Reading.md",
+                "file": "Lernin/Kubernetes/k8s Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lernin/Reading/Books and Reading.md"
+                "file": "Lernin/Kubernetes/k8s Tools.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "63473b99bf03239b",
   "lastOpenFiles": [
-    "Lernin/Self Study.md",
     "Lernin/Reading/Books and Reading.md",
+    "Lernin/Kubernetes/k8s Tools.md",
+    "Lernin/Kubernetes",
+    "Lernin/Self Study.md",
     "Lernin/Reading",
     "Lernin/AWS/Zero to AWS EKS.md",
     "Lernin/Research Topics/Tech.md",
