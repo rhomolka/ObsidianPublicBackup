@@ -11,8 +11,12 @@
             "id": "8524ebb7581c8154",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lernin/Kubernetes/MVK.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Lernin/Kubernetes/MVK.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Lernin/Kubernetes/MVK.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Lernin/Kubernetes/MVK.md"
+          }
         }
       }
     ],
@@ -125,6 +133,7 @@
   },
   "active": "8524ebb7581c8154",
   "lastOpenFiles": [
+    "Lernin/Kubernetes/MVK.md",
     "Tech Tips",
     "Lernin/Aws/Zero to AWS EKS.md",
     "Lernin/Aws",
