@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Tips/PromQL/Useful queries.md",
+                "file": "Lernin/Kubernetes/MVK.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Tips/PromQL/Useful queries.md",
+                "file": "Lernin/Kubernetes/MVK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Tips/PromQL/Useful queries.md",
+                "file": "Lernin/Kubernetes/MVK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Tips/PromQL/Useful queries.md"
+                "file": "Lernin/Kubernetes/MVK.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "63473b99bf03239b",
   "lastOpenFiles": [
-    "Lernin/Kubernetes/k8s Tools.md",
     "Tech Tips/PromQL/Useful queries.md",
+    "Lernin/Kubernetes/k8s Tools.md",
     "Tech Tips/PromQL",
     "Lernin/Reading/Books and Reading.md",
     "Lernin/Kubernetes",
