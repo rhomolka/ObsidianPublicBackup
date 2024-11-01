@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e75ea87ad5f6714",
+        "id": "e117e2e1b49010e9",
         "type": "tabs",
         "children": [
           {
-            "id": "63473b99bf03239b",
+            "id": "f423f3d1d8e8280d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Tips/Homebrew/Brew bundle.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Tips/Homebrew/Brew bundle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Tips/Homebrew/Brew bundle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tech Tips/Homebrew/Brew bundle.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63473b99bf03239b",
+  "active": "f423f3d1d8e8280d",
   "lastOpenFiles": [
+    "Tech Tips/Homebrew/Brew bundle.md",
     "Tech Tips/Homebrew",
     "Tech Tips/Video/ffmpeg.md",
-    "Tech Tips/Homebrew/Brew bundle.md",
     "Tech Tips/Video",
     "Lernin/Kubernetes/MVK.md",
     "Tech Tips/PromQL/Useful queries.md",
