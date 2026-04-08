@@ -11,12 +11,14 @@
             "id": "f423f3d1d8e8280d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "Lernin/LowLatency Linux/Low Latency Toolkits.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Low Latency Toolkits"
             }
           }
         ]
@@ -38,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -148,6 +151,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -158,10 +162,15 @@
   },
   "active": "f423f3d1d8e8280d",
   "lastOpenFiles": [
+    "Lernin/LowLatency Linux/Links.md",
+    "Lernin/LowLatency Linux/Firmware Settings.md",
+    "Lernin/LowLatency Linux/Low Latency Toolkits.md",
+    "Lernin/AWS/Zero to AWS EKS.md",
+    "Lernin/LowLatency Linux",
+    "Tech Tips/Video/ffmpeg.md",
     "2024-10-31.md",
     "Tech Tips/Homebrew/Brew bundle.md",
     "Tech Tips/Homebrew",
-    "Tech Tips/Video/ffmpeg.md",
     "Tech Tips/Video",
     "Lernin/Kubernetes/MVK.md",
     "Tech Tips/PromQL/Useful queries.md",
@@ -171,7 +180,6 @@
     "Lernin/Kubernetes",
     "Lernin/Self Study.md",
     "Lernin/Reading",
-    "Lernin/AWS/Zero to AWS EKS.md",
     "Lernin/Research Topics/Tech.md",
     "Lernin/Research Topics",
     "Tech Tips"
