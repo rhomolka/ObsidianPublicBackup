@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,11 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e39589eb5cdba8ba",
+  "active": "f423f3d1d8e8280d",
   "lastOpenFiles": [
+    "2026-05-08.md",
+    "Lernin/LowLatency Linux/Low Latency Toolkits.md",
     "Lernin/LowLatency Linux/Links.md",
     "Lernin/LowLatency Linux/Firmware Settings.md",
-    "Lernin/LowLatency Linux/Low Latency Toolkits.md",
     "Lernin/AWS/Zero to AWS EKS.md",
     "Lernin/LowLatency Linux",
     "Tech Tips/Video/ffmpeg.md",
